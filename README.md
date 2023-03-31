@@ -3,7 +3,7 @@ I am a software developer by profession with ample knowledge in Networking and E
 
 I have 13+ years of experience in Software development (c#, Xamarin, Maui, WinUI3, PHP and a bit of python)
 
-I also have knoledge in PCB Design, Arduino /ESP programing, Electronics, Computer networking including Mikrotik & CISCO routers configuration.
+I also have knowledge in PCB Design, Arduino /ESP programing, Electronics, Computer networking including Mikrotik & CISCO routers configuration.
 
 I Love to experiments related to automations and computer vision.
 
