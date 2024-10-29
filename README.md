@@ -1,11 +1,9 @@
 ### Hi there 👋
 I am a software developer by profession with ample knowledge in Networking and Embedded systems development
 
-I have 13+ years of experience in Software development (c#, Xamarin, Maui, WinUI3, PHP and a bit of python)
+I have 14+ years of experience in Software development (.Net Framework, C#, Xamarin, Maui, WinUI3, ASP.net, .net Aspire, Azure)
 
-I also have knowledge in PCB Design, Arduino /ESP programing, Electronics, Computer networking including Mikrotik & CISCO routers configuration.
-
-I Love to experiments related to automations and computer vision.
+I also have knowledge in PCB Design, Arduino /ESP programing, Electronics, Computer networking.
 
 Started this github account around 2022 to share and keep a backup of my some coding and most of the codes here are availabe under GPL 3.0 Licence
 
